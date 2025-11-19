@@ -99,5 +99,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-//EL ARCHIVO DEBE SER .txt ejemplo del contenido
-//12,45,78,96,312,85,29,2,85...
+#EL ARCHIVO DEBE SER .txt ejemplo del contenido
+#12,45,78,96,312,85,29,2,85...
+
